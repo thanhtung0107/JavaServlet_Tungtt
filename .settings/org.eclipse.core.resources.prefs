@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/poly/admin/servlet/VideosMagementServlet.java=UTF-8
+encoding//src/main/java/com/poly/common/CookiUtils.java=UTF-8
+encoding//src/main/java/com/poly/common/PageInfo.java=UTF-8
+encoding//src/main/java/com/poly/common/SessionUtils.java=UTF-8
+encoding//src/main/java/com/poly/dao/AbstractEntityDao.java=UTF-8
+encoding//src/main/java/com/poly/dao/JpaUtils.java=UTF-8
+encoding//src/main/java/com/poly/dao/UserDao.java=UTF-8
+encoding//src/main/java/com/poly/site/servlet/ChangePasswordServlet.java=UTF-8
+encoding//src/main/java/com/poly/site/servlet/EditProfileServlet.java=UTF-8
+encoding//src/main/java/com/poly/site/servlet/LoginServlet.java=UTF-8
+encoding//src/main/java/com/poly/site/servlet/LogoffServlet.java=UTF-8
+encoding//src/main/java/com/poly/site/servlet/RegistrationServlet.java=UTF-8
